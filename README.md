@@ -1,1 +1,2 @@
-# Predicting_YELP_Reviews_NLP_Final_Project
+# Predicting YELP Reviews (NLP Final Project)
+*Authors: Sean Merritt, Siyu Xiang, Sonia Yang
